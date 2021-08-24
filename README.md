@@ -7,8 +7,9 @@ You need [Python](https://www.python.org/downloads/) to run this program, make s
 
 ## Usage instructions
 1. Put your cookies in cookies.txt. Make sure to separate them with a new line.
-2. Open command prompt and go to the directory the files are in.
-3. Then run:
+Cookies should start with `_|WARNING:-DO-NOT-SHARE-THIS`. Do not include .ROBLOSECURITY=!
+3. Open command prompt and go to the directory the files are in.
+4. Then run:
 ```bash 
 python joingame.py
 ```
